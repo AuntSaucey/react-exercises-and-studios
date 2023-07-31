@@ -1,7 +1,10 @@
 .choresText {
-   color: black;
+   color: purple;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-style: italic;
 }
 
 .choresHeading {
-   color: black;
+   color: aqua;
+   text-underline-position: below;
 }
