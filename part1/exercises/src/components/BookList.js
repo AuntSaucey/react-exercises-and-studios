@@ -1,8 +1,8 @@
 export default function BookList() {
-   let pageTitle = "shrug";
-   let book1 = "google.com";
-   let book2 = "";
-   let book3 = "";
+   let pageTitle = "Good Movies";
+   let book1 = "https://target.scene7.com/is/image/Target/GUEST_60d0ce8d-39b3-4e3f-8fd9-34b053213d9a?wid=488&hei=488&fmt=pjpeg";
+   let book2 = "https://m.media-amazon.com/images/I/41urJNhlFzL.jpg";
+   let book3 = "https://m.media-amazon.com/images/M/MV5BNDMwNjAzNzYwOF5BMl5BanBnXkFtZTcwMDY5NzcyMw@@._V1_.jpg";
 
    return (
       <div>
