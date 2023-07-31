@@ -10,6 +10,8 @@ class MovieList extends React.Component {
          <ol>
             <li className={classes.movieText}>{movies[0]}</li>
             <li className={classes.movieText}>{movies[1]}</li>
+            <li className={classes.movieText}>{movies[2]}</li>
+            <li className={classes.movieText}>{movies[3]}</li>
          </ol>
       </div>
       );
